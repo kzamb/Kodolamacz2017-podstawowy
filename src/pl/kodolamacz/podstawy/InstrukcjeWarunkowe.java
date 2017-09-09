@@ -29,7 +29,7 @@ public class InstrukcjeWarunkowe {
                 System.out.println("Nie wiem co to jest");
         }
 
-
+    // komentarz
 
     }
 }
