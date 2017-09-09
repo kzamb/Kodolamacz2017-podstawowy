@@ -1,1 +1,4 @@
-to jest nowa lionia
+to jest nowa linia
+dodaje drugą linię
+
+Koniec
